@@ -1,0 +1,13 @@
+body{
+    display: inline-block;
+    background-color: #0f0f0b;
+    width: 100%;
+  }
+  html{
+    color: #9f9
+  }
+  fieldset{
+    display: inline-block;
+    border: none;
+    padding: 2rem 0;
+  }
